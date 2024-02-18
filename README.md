@@ -6,7 +6,7 @@
 
 ### About Me 🌐
 
-Blending 5+ years in data analysis and data science, I sculpt data & language into experiences.
+Blending 5+ years in data analysis and science, I sculpt data & language into experiences.
 
 ### Professional Highlights 🌟
 - Data analyst - UNICEPTA, Germany (2019 - 2024)
@@ -14,18 +14,18 @@ Blending 5+ years in data analysis and data science, I sculpt data & language in
 - Public Relations Specialist - Egyptian Cabinet of Ministers, Egypt (2012 - 2014)
 
 ### Tech Toolbox 🛠️
-- Languages: Python, SQL, R
-- Frameworks & Libraries: PyTorch, Tensorflow, Pandas, Matplotlib, Numpy.
-- Tools: AWS, GCP, Azure, Git
-- Specialties: BI, Sentiment Analysis, NLP
+- Languages: Python, SQL, DAX, and R.
+- Frameworks & Libraries: PyTorch, Tensorflow, Pandas, Matplotlib, and Numpy.
+- Tools: GCP, Azure, AWS, and Git.
+- Specialties: BI, Sentiment Analysis, NLP, and ML.
 
 #### Education 🎓
-- Masters in Economics, Siegen University
-- Bachelors in Economics, Cairo University
+- Master of Science in Economics, Siegen University
+- Bachelors in Economics and Statistics, Cairo University
 
 #### Certifications 📜
-- Certificateions: Tableau Desktop Specialist, Professional Scrum Product Owner 
-- Coursera: Google Data Analytics Professional Certificate- 8 Courses.
+- Certificateions: Tableau Desktop Specialist, and Professional Scrum Product Owner.
+- Certificates: Google Data Analytics Professional Certificate- 8 Courses.
 
 
 
