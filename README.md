@@ -2,7 +2,6 @@
 
 ## 🚀 Data scientist and analyst focusing on data analysis, Science, and Engineering.
 
-📍 Germany
 
 ### About Me 🌐
 
@@ -17,11 +16,11 @@ Blending 5+ years in data analysis and science, I sculpt data & language into ex
 - Languages: Python, SQL, DAX, and R.
 - Frameworks & Libraries: PyTorch, Tensorflow, Pandas, Matplotlib, and Numpy.
 - Tools: GCP, Azure, AWS, and Git.
-- Specialties: BI, Sentiment Analysis, NLP, and ML.
+- Specialties: BI, Sentiment Analysis, NLP, ML, AI.
 
 #### Education 🎓
-- Master of Science in Economics, Siegen University
-- Bachelors in Economics and Statistics, Cairo University
+- Master of Science of Economics, Siegen University.
+- Bachelor of Economics and Statistics, Cairo University.
 
 #### Certifications 📜
 - Certificateions: Tableau Desktop Specialist, and Professional Scrum Product Owner.
