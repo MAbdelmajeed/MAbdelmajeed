@@ -5,7 +5,7 @@
 
 ### About Me 🌐
 
-Blending 5+ years in data analysis and science, I sculpt data & language into experiences.
+Blending 7+ years in data analysis and science, I sculpt data & language into experiences.
 
 ### Professional Highlights 🌟
 - Data analyst - UNICEPTA, Germany (2019 - 2024)
@@ -15,7 +15,7 @@ Blending 5+ years in data analysis and science, I sculpt data & language into ex
 ### Tech Toolbox 🛠️
 - Languages: Python, SQL, DAX, and R.
 - Frameworks & Libraries: PyTorch, Tensorflow, Pandas, Matplotlib, and Numpy.
-- Tools: GCP, Azure, AWS, and Git.
+- Tools: GCP, Azure and Git.
 - Specialties: BI, Sentiment Analysis, NLP, ML, AI.
 
 #### Education 🎓
