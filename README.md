@@ -7,7 +7,7 @@
 Blending 9+ years in data analysis and science, I sculpt data & language into experiences.
 
 ### Professional Highlights 🌟
-- Senior Data Analyst - Telefonica (2024:)
+- Senior Data Analyst - Telefonica, Germany (2024:)
 - Data analyst - UNICEPTA, Germany (2019 - 2024)
 - Researcher - ABH Market Research GmbH, Germany (2017 - 2018)
 - Public Relations Specialist - Egyptian Cabinet of Ministers, Egypt (2012 - 2014)
