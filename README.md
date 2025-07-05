@@ -1,29 +1,29 @@
 # 👋 Hello, I'm Muhammed!
 
-## 🚀 Data scientist and analyst focusing on data analysis, Science, and Engineering.
-
+## 🚀 Data scientist and analyst focusing on data analysis and data science.
 
 ### About Me 🌐
 
-Blending 7+ years in data analysis and science, I sculpt data & language into experiences.
+Blending 9+ years in data analysis and science, I sculpt data & language into experiences.
 
 ### Professional Highlights 🌟
+- Senior Data Analyst - Telefonica (2024 - Ongoing)
 - Data analyst - UNICEPTA, Germany (2019 - 2024)
 - Researcher - ABH Market Research GmbH, Germany (2017 - 2018)
 - Public Relations Specialist - Egyptian Cabinet of Ministers, Egypt (2012 - 2014)
 
 ### Tech Toolbox 🛠️
-- Languages: Python, SQL, DAX, and R.
+- Languages: Python, R, SQL, & DAX.
 - Frameworks & Libraries: PyTorch, Tensorflow, Pandas, Matplotlib, and Numpy.
-- Tools: GCP, Azure and Git.
-- Specialties: BI, Sentiment Analysis, NLP, ML, AI.
-
+- Tools: GCP, Azure and Data Bricks.
+- Specialties: AI, ML, & BI.
+  
 #### Education 🎓
 - Master of Science of Economics, Siegen University.
 - Bachelor of Economics and Statistics, Cairo University.
 
 #### Certifications 📜
-- Certificateions: Tableau Desktop Specialist, and Professional Scrum Product Owner.
+- Certificateions: Certified Google TensorFlow Developer, certified Tableau Desktop Specialist, and Professional Scrum Product Owner.
 - Certificates: Google Data Analytics Professional Certificate- 8 Courses.
 
 
