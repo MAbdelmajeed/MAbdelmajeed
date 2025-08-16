@@ -15,7 +15,7 @@ Blending 9+ years in data analysis and science, I sculpt data & language into ex
 ### Tech Toolbox 🛠️
 - Languages: Python, R, SQL, & DAX.
 - Frameworks & Libraries: PyTorch, Tensorflow, Pandas, Matplotlib, and Numpy.
-- Tools: GCP, Azure and Data Bricks.
+- Tools: Google BigQuery, Azure, Data Bricks, Tableau (Desktop and Prep), and Power BI.
 - Specialties: AI, ML, & BI.
   
 #### Education 🎓
