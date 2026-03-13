@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Muhammed!
+# 👋 Hello, I'm Mohamed!
 
 ## 🚀 Data scientist and analyst focusing on data analysis and data science.
 
@@ -21,6 +21,10 @@ Blending 9+ years in data analysis and science, I sculpt data & language into ex
 #### Education 🎓
 - Master of Science of Economics, Siegen University.
 - Bachelor of Economics and Statistics, Cairo University.
+
+#### Business Portfolio 🌐 
+- Tableau: https://public.tableau.com/app/profile/mabdelmajuid/viz/UdemyTableauWorkbook/Data
+- StreamLit: https://share.streamlit.io/user/mabdelmajeed
 
 #### Certifications 📜
 - Certificateions: Certified Google TensorFlow Developer, certified Tableau Desktop Specialist, and Professional Scrum Product Owner.
