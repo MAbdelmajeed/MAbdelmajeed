@@ -28,7 +28,10 @@ Blending 9+ years in data analysis and science, I sculpt data & language into ex
 
 #### Certifications 📜
 - Certificateions: Certified Google TensorFlow Developer, certified Tableau Desktop Specialist, and Professional Scrum Product Owner.
-- Certificates: Google Data Analytics Professional Certificate- 8 Courses.
+- Certificates:
+                 - Google Data Analytics Professional Certificate- 8 Courses.
+                 - IBM Data Engineering Professional Certificate- 16 Courses.
+
 
 
 
