@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Mohamed!
 
-## 🚀 Data scientist and analyst focusing on data analysis and data science.
+## 🚀 Senior Data scientist and analyst focusing on data analysis and data science.
 
 ### About Me 🌐
 
