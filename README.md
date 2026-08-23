@@ -23,7 +23,7 @@ Senior AI & Data Scientist with 9+ years of experience building data-driven solu
 - Bachelor of Economics and Statistics, Cairo University.
 
 #### Featured Projects & Live Demos 🌐 
-- BI & Analytics Dashboards (Tableau Public portfolio) https://public.tableau.com/app/profile/mabdelmajuid/viz/UdemyTableauWorkbook/Data
+- BI & Analytics Dashboards (Tableau Public portfolio): https://public.tableau.com/app/profile/mabdelmajuid/viz/UdemyTableauWorkbook/Data
 - Interactive Data Applications (Streamlit portfolio): https://share.streamlit.io/user/mabdelmajeed
 
 #### Certifications 📜
