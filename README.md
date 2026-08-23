@@ -7,7 +7,7 @@
 Senior AI & Data Scientist with 9+ years of experience building data-driven solutions across analytics, machine learning, NLP, and business intelligence. Focused on end-to-end data products—from data ingestion and modeling to deployment, MLOps, monitoring, and decision-support applications.
 
 ### Professional Highlights 🌟
-- Senior Data Analyst - Telefónica, Germany (2024-2026)
+- Senior Data Analyst - Telefónica, Germany (2024 - 2026)
 - Data Analyst - UNICEPTA, Germany (2019 - 2024)
 - Researcher - ABH Market Research GmbH, Germany (2017 - 2018)
 - Public Relations Specialist - Egyptian Cabinet of Ministers, Egypt (2012 - 2014)
