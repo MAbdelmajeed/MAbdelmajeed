@@ -15,8 +15,8 @@ Senior AI & Data Scientist with 9+ years of experience building data-driven solu
 ### Tech Toolbox 🛠️
 - Languages: Python, SQL, & DAX.
 - Frameworks & Libraries: PyTorch, TensorFlow, pandas, Matplotlib, and NumPy.
-- Tools: Google BigQuery, Azure, DataBricks, MS Fabric, Tableau (Desktop and Prep), and Power BI.
-- Specialties: AI, ML, & BI.
+- Tools: Google BigQuery, Azure, Databricks, Microsoft Fabric, Tableau (Desktop and Prep), and Power BI.
+- Core Expertise: GenAI, Machine Learning, NLP, MLOps, Data Engineering & Analytics
   
 #### Education 🎓
 - Master of Science in Economics, Siegen University.
