@@ -1,5 +1,3 @@
-# 👋 Hello, I'm Mohamed!
-
 ## 🚀 Senior AI & Data Scientist | End-to-End ML, MLOps & Data Products
 
 ### About Me 🌐
