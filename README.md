@@ -1,4 +1,4 @@
-## 🚀 Senior AI & Data Scientist | End-to-End ML, MLOps & Data Products
+## 🚀 Senior AI & Data Scientist | End-to-End Data Products
 
 ### About Me 🌐
 
@@ -11,10 +11,10 @@ Senior AI & Data Scientist with 9+ years of experience building data-driven solu
 - Public Relations Specialist - Egyptian Cabinet of Ministers, Egypt (2012 - 2014)
 
 ### Tech Toolbox 🛠️
-- Languages: Python, SQL, & DAX.
-- Frameworks & Libraries: PyTorch, TensorFlow, pandas, Matplotlib, and NumPy.
-- Tools: Google BigQuery, Azure, Databricks, Microsoft Fabric, Tableau (Desktop and Prep), and Power BI.
-- Core Expertise: GenAI, Machine Learning, NLP, MLOps, Data Engineering & Analytics
+- Languages: Python, SQL, DAX, JAVA, CSS, & HTML.
+- Frameworks & Libraries: PyTorch, TensorFlow, LangChain, LangGraph, pandas, Matplotlib, and NumPy.
+- Tools & Platforms: Azure, Databricks, Microsoft Fabric, Snowflake, dbt, n8n, Fijma, Google BigQuery, Tableau (Desktop and Prep), and Power BI.
+- Core Expertise: GenAI, Machine Learning, NLP, MLOps, LLMOps, Data Engineering & Analytics
   
 #### Education 🎓
 - Master of Science in Economics, Siegen University.
