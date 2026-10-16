@@ -1,4 +1,4 @@
-## 🚀 Senior AI & Data Scientist | End-to-End Data Products
+## 🚀 Senior Data & AI Architect | End-to-End Data Products
 
 ### About Me 🌐
 
